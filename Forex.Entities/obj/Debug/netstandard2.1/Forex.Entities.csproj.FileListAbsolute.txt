@@ -1,0 +1,9 @@
+C:\Users\Dipak\source\repos\Forex\Forex.Entities\bin\Debug\netstandard2.1\Forex.Entities.deps.json
+C:\Users\Dipak\source\repos\Forex\Forex.Entities\bin\Debug\netstandard2.1\Forex.Entities.dll
+C:\Users\Dipak\source\repos\Forex\Forex.Entities\bin\Debug\netstandard2.1\Forex.Entities.pdb
+C:\Users\Dipak\source\repos\Forex\Forex.Entities\obj\Debug\netstandard2.1\Forex.Entities.csprojAssemblyReference.cache
+C:\Users\Dipak\source\repos\Forex\Forex.Entities\obj\Debug\netstandard2.1\Forex.Entities.AssemblyInfoInputs.cache
+C:\Users\Dipak\source\repos\Forex\Forex.Entities\obj\Debug\netstandard2.1\Forex.Entities.AssemblyInfo.cs
+C:\Users\Dipak\source\repos\Forex\Forex.Entities\obj\Debug\netstandard2.1\Forex.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Dipak\source\repos\Forex\Forex.Entities\obj\Debug\netstandard2.1\Forex.Entities.dll
+C:\Users\Dipak\source\repos\Forex\Forex.Entities\obj\Debug\netstandard2.1\Forex.Entities.pdb

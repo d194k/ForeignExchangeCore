@@ -1,0 +1,14 @@
+C:\Users\Dipak\source\repos\Forex\Forex.Services\bin\Debug\netstandard2.1\Forex.Services.deps.json
+C:\Users\Dipak\source\repos\Forex\Forex.Services\bin\Debug\netstandard2.1\Forex.Services.dll
+C:\Users\Dipak\source\repos\Forex\Forex.Services\bin\Debug\netstandard2.1\Forex.Services.pdb
+C:\Users\Dipak\source\repos\Forex\Forex.Services\bin\Debug\netstandard2.1\Forex.DomainModels.dll
+C:\Users\Dipak\source\repos\Forex\Forex.Services\bin\Debug\netstandard2.1\Forex.DomainModels.pdb
+C:\Users\Dipak\source\repos\Forex\Forex.Services\obj\Debug\netstandard2.1\Forex.Services.csprojAssemblyReference.cache
+C:\Users\Dipak\source\repos\Forex\Forex.Services\obj\Debug\netstandard2.1\Forex.Services.AssemblyInfoInputs.cache
+C:\Users\Dipak\source\repos\Forex\Forex.Services\obj\Debug\netstandard2.1\Forex.Services.AssemblyInfo.cs
+C:\Users\Dipak\source\repos\Forex\Forex.Services\obj\Debug\netstandard2.1\Forex.Services.csproj.CoreCompileInputs.cache
+C:\Users\Dipak\source\repos\Forex\Forex.Services\obj\Debug\netstandard2.1\Forex.Services.csproj.CopyComplete
+C:\Users\Dipak\source\repos\Forex\Forex.Services\obj\Debug\netstandard2.1\Forex.Services.dll
+C:\Users\Dipak\source\repos\Forex\Forex.Services\obj\Debug\netstandard2.1\Forex.Services.pdb
+C:\Users\Dipak\source\repos\Forex\Forex.Services\bin\Debug\netstandard2.1\Forex.Entities.dll
+C:\Users\Dipak\source\repos\Forex\Forex.Services\bin\Debug\netstandard2.1\Forex.Entities.pdb

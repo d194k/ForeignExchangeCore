@@ -1,0 +1,12 @@
+C:\Users\Dipak\source\repos\Forex\Forex.Infrastructure\bin\Debug\netstandard2.1\Forex.Infrastructure.deps.json
+C:\Users\Dipak\source\repos\Forex\Forex.Infrastructure\bin\Debug\netstandard2.1\Forex.Infrastructure.dll
+C:\Users\Dipak\source\repos\Forex\Forex.Infrastructure\bin\Debug\netstandard2.1\Forex.Infrastructure.pdb
+C:\Users\Dipak\source\repos\Forex\Forex.Infrastructure\obj\Debug\netstandard2.1\Forex.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Dipak\source\repos\Forex\Forex.Infrastructure\obj\Debug\netstandard2.1\Forex.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Dipak\source\repos\Forex\Forex.Infrastructure\obj\Debug\netstandard2.1\Forex.Infrastructure.AssemblyInfo.cs
+C:\Users\Dipak\source\repos\Forex\Forex.Infrastructure\obj\Debug\netstandard2.1\Forex.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Dipak\source\repos\Forex\Forex.Infrastructure\obj\Debug\netstandard2.1\Forex.Infrastructure.dll
+C:\Users\Dipak\source\repos\Forex\Forex.Infrastructure\obj\Debug\netstandard2.1\Forex.Infrastructure.pdb
+C:\Users\Dipak\source\repos\Forex\Forex.Infrastructure\bin\Debug\netstandard2.1\Forex.DomainModels.dll
+C:\Users\Dipak\source\repos\Forex\Forex.Infrastructure\bin\Debug\netstandard2.1\Forex.DomainModels.pdb
+C:\Users\Dipak\source\repos\Forex\Forex.Infrastructure\obj\Debug\netstandard2.1\Forex.Infrastructure.csproj.CopyComplete

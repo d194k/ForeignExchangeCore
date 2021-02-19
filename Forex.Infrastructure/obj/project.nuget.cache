@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X6cOKjIqqVEgoXCvOyuqv5LwBIHz1bKk4x/Lmai7Sn5WEj4hEZrqRvEHTetVK9SjWz2DwnZ5ETWYtgWzouUhBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dipak\\source\\repos\\Forex\\Forex.Infrastructure\\Forex.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dipak\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

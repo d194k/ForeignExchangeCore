@@ -1,0 +1,9 @@
+C:\Users\Dipak\source\repos\Forex\Forex.DomainModels\bin\Debug\netstandard2.1\Forex.DomainModels.deps.json
+C:\Users\Dipak\source\repos\Forex\Forex.DomainModels\bin\Debug\netstandard2.1\Forex.DomainModels.dll
+C:\Users\Dipak\source\repos\Forex\Forex.DomainModels\bin\Debug\netstandard2.1\Forex.DomainModels.pdb
+C:\Users\Dipak\source\repos\Forex\Forex.DomainModels\obj\Debug\netstandard2.1\Forex.DomainModels.csprojAssemblyReference.cache
+C:\Users\Dipak\source\repos\Forex\Forex.DomainModels\obj\Debug\netstandard2.1\Forex.DomainModels.AssemblyInfoInputs.cache
+C:\Users\Dipak\source\repos\Forex\Forex.DomainModels\obj\Debug\netstandard2.1\Forex.DomainModels.AssemblyInfo.cs
+C:\Users\Dipak\source\repos\Forex\Forex.DomainModels\obj\Debug\netstandard2.1\Forex.DomainModels.csproj.CoreCompileInputs.cache
+C:\Users\Dipak\source\repos\Forex\Forex.DomainModels\obj\Debug\netstandard2.1\Forex.DomainModels.dll
+C:\Users\Dipak\source\repos\Forex\Forex.DomainModels\obj\Debug\netstandard2.1\Forex.DomainModels.pdb
