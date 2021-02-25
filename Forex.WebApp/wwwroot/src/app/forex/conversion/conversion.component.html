@@ -1,0 +1,46 @@
+<h1 style="text-align: center;">{{pageTitle}}</h1>
+<section>
+    <div *ngIf="hasError">
+        <span>No data received from API</span>
+    </div>
+</section>
+<section>    
+    <form (ngSubmit)="convertCurrency()">
+        <div class="control-section">
+            <label>First Currency:</label>
+            <div>
+                <input type="text" name="firstCurrency" [(ngModel)]="firstCurrency" required>
+            </div>
+        </div>
+        <div class="control-section">
+            <label>Amount:</label>
+            <div>
+                <input type="number" name="amount" min="0" [(ngModel)]="amount" required>
+            </div>
+        </div>
+        <div class="control-section">
+            <label>Second Currency:</label>
+            <div>
+                <input type="text" name="secondCurrency" [(ngModel)]="secondCurrency" required>
+            </div>
+        </div>
+        <div class="control-section">
+            <label>Exchange Date:</label>
+            <div>
+                <input type="date" name="exchangeDate" [(ngModel)]="exchangeDate">
+            </div>
+        </div>        
+        <div class="control-section">
+            <button type="submit">Convert</button>
+            <button (click)="clear()" style="margin-left: 10px;">Clear</button>
+        </div>
+    </form>
+</section>
+<section>
+    <div *ngIf="hasSuccess && currencyExchanged?.ExchangedAmount && currencyExchanged?.ExchangeDate">
+        {{currencyExchanged.ExchangeDate}}
+    </div>
+    <div *ngIf="hasSuccess && currencyExchanged?.ExchangedAmount" class="control-section">
+        {{currencyExchanged.CurrencyAmount}} {{currencyExchanged.FirstCurrencyCode}} = {{currencyExchanged.ExchangedAmount}} {{currencyExchanged.SecondCurrencyCode}}
+    </div>
+</section>

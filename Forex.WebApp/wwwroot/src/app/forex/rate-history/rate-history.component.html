@@ -1,0 +1,37 @@
+<h1 style="text-align: center;">{{pageTitle}}</h1>
+<section>
+    <div *ngIf="hasError">
+        <span>No data received from API</span>
+    </div>
+</section>
+<section>    
+    <form (ngSubmit)="getRateHistory()">
+        <div class="control-section">
+            <label>Currency:</label>
+            <div>
+                <input type="text" name="currency" [(ngModel)]="currency" required>
+            </div>
+        </div>
+        <div class="control-section">
+            <label>From Date:</label>
+            <div>
+                <input type="date" name="fromDate" [(ngModel)]="fromDate" required>
+            </div>
+        </div>
+        <div class="control-section">
+            <label>To Date:</label>
+            <div>
+                <input type="date" name="toDate" [(ngModel)]="toDate" required>
+            </div>
+        </div>        
+        <div class="control-section">
+            <button type="submit">Get History</button>
+            <button (click)="clear()" style="margin-left: 10px;">Clear</button>
+        </div>
+    </form>
+</section>
+<section>
+    <div *ngIf="hasSuccess">
+        <p-chart type="bar" [data]="chartData" width="50vw" height="50vh"></p-chart>
+    </div>
+</section>
